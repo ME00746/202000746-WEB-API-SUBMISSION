@@ -1,6 +1,0 @@
-ME00746
-4l02wK0w8FFh774J
-
-aAN43UD04tyj1a50
-
-mongodb+srv://me00746:aAN43UD04tyj1a50@cluster0.x3ffvoh.mongodb.net/
